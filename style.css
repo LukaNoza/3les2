@@ -1,0 +1,62 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+}
+
+header h1 {
+    margin: 0;
+}
+
+
+main {
+    padding: 2rem;
+}
+
+.sec {
+    margin-bottom: 2rem;
+    border: 1px solid #ccc;
+    padding: 1rem;
+    padding-left: 4rem;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    background-color: #333;
+    color: #fff;
+}
+
+ol {
+    padding-left: 17px;
+}
+
+div {
+    float: right;
+}
+
+button {
+    border: #333;
+    background-color: #333;
+    border-radius: 3px;
+    padding: 7px;
+}
+
+.but {
+    color: rgb(245, 235, 235);
+}
+
+a {
+    cursor: pointer;
+}
